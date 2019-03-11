@@ -42,7 +42,7 @@ E.g.
 ```python generate.py```
 
 ## Gathering data
-Gather the dataset yourself.
+If you want to gather the dataset yourself.
 You can change the code if you want different artists.
 
 Run gather_data.py
